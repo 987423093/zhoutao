@@ -49,12 +49,12 @@
 		<!-- <font  face="YouYuan" color="blue" >新年快乐！</font> -->
 	<marquee onmouseout=this.start() onmouseover=this.stop() behavior="scroll" direction="up" width="660px" height="300px" SCROLLDELAY="320" >
 	   <font  face="YouYuan" color="blue" >
-	   	&nbsp;&nbsp;&nbsp;新年快乐！</br></br>
+	   	&nbsp;&nbsp;新年快乐！</br></br>
 	   	祝新的一年小仙女学习进步!</br></br>
 	   	&nbsp;身体健康，万事如意！</br></br>
 	   	吃什么都不胖，越来越苗条！</br></br>
 	   	&nbsp;(我不写你会不会打死我)</br></br>
-	   	&nbsp;&nbsp;&nbsp;祝狗年大吉！
+	   	&nbsp;&nbsp;祝狗年大吉！
 	   	</font> 
 	</marquee> 
 </div> 
